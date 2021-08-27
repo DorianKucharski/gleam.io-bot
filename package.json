@@ -1,0 +1,14 @@
+{
+  "name": "PuppeteerCourse",
+  "version": "1.0.0",
+  "description": "PuppeteerCourse",
+  "main": "Test.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.0.4"
+  }
+}
